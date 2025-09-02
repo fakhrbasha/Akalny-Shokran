@@ -1,12 +1,32 @@
-# React + Vite
+# 🍲 Food Recipes Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
+A responsive website that displays a collection of **various meals and recipes**.  
+Users can:
+- Browse a wide range of meals.
+- View detailed information about each dish.
+- Check full **ingredients and instructions** for preparing the meal.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🏠 **Home Page**: Showcases a list of meals with images.    
+- 📖 **Recipe Details**: Clicking on a meal shows:
+  - Meal image & description.
+  - Ingredients with quantities.
+  - Step-by-step instructions.  
+- 📱 **Responsive Design**: Works smoothly on desktop, tablet, and mobile.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend**: React (with Hooks & React Router)  
+- **Styling**: TailwindCSS 
+- **Data Source**: [TheMealDB API](https://www.themealdb.com/) (free recipes API)
+
+---
+## 🔗 Visit the live demo
+
+You can try the app live at:  
+[ِAkalny Shokran](https://akalny-shokran-bpe1.vercel.app/)
+
